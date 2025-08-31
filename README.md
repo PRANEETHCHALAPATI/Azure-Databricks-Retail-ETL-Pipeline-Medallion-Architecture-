@@ -110,9 +110,9 @@ SQL for Analytics
 
 ## 📂 Repository Structure
 ├── notebooks/
-│   ├── 1_bronze_ingestion.py
-│   ├── 2_silver_transform.py
-│   ├── 3_gold_star_schema.py
+│ ├── 1_smoke_test.py
+│ ├── 2_setup.py
+│ ├── 3_source_code.py
 ├── data/ (sample csvs)
 ├── README.md
 

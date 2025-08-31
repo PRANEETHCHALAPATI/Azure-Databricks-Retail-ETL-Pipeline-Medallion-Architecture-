@@ -109,13 +109,14 @@ Medallion Architecture
 SQL for Analytics
 
 ## 📂 Repository Structure
+```
 ├── notebooks/
-│ ├── 1_smoke_test.py
-│ ├── 2_setup.py
-│ ├── 3_source_code.py
+│ ├── 1_smoke_test.ipynb
+│ ├── 2_setup.ipynb
+│ ├── 3_source_code.ipynb
 ├── data/ (sample csvs)
 ├── README.md
-
+```
 ## 📌 Next Steps
 
 📊 Build Power BI dashboard for visual analytics
